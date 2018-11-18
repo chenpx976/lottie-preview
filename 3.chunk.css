@@ -1,0 +1,2 @@
+.tabbar{height:40px;width:100%;display:flex;align-content:center;justify-content:space-between;position:fixed;bottom:0;left:0;background-color:#f7f7f7;color:#7cbac0;line-height:40px;font-size:24px}
+.home{padding-left:30px}.home .title{height:300px;line-height:300px;font-size:42px;color:#484848}.home .action-list{font-size:20px}
