@@ -15,4 +15,5 @@ export default {
       hardSource: false,
     }],
   ],
+  disableCSSModules: true,
 }
