@@ -11,7 +11,7 @@ export default function() {
       <div className="action-list">
         <div className="url">
           enter a url
-          <Link to="/preview">去预览页面</Link>
+          <Link to="/preview?url=https://gw.alipayobjects.com/os/rmsportal/LrKHaNJripauArQhLCAG.json">去预览页面</Link>
         </div>
       </div>
       <TabBar />

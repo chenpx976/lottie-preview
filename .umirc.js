@@ -8,7 +8,7 @@ export default {
       dva: false,
       dynamicImport: true,
       title: 'lottie-preview',
-      dll: true,
+      dll: false,
       routes: {
         exclude: [],
       },
